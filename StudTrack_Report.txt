@@ -1,0 +1,136 @@
+STUDTRACK - COMPREHENSIVE ATTENDANCE REPORT
+=============================================
+Generated on: 2025-08-26 17:25:40
+
+EXECUTIVE SUMMARY
+=================
+Total Meetings: 4
+Online Meetings: 2
+Offline Meetings: 2
+
+TOP PARTICIPANTS BY TOTAL TIME:
+  Bob: 5 hours 15 minutes
+  Alice: 4 hours 15 minutes
+  Eve: 3 hours 0 minutes
+  Diana: 2 hours 15 minutes
+  Charlie: 2 hours 0 minutes
+
+ONLINE MEETINGS ANALYSIS
+========================
+
+Meeting: Math Class (2025-07-09)
+--------------------------------------------------
+  Alice: 1 hours 15 minutes (2 sessions)
+    Session 1: 09:00 - 09:45 (45 minutes)
+    Session 2: 10:00 - 10:30 (30 minutes)
+  Bob: 1 hours 30 minutes (2 sessions)
+    Session 1: 09:15 - 09:45 (30 minutes)
+    Session 2: 10:00 - 11:00 (60 minutes)
+  Charlie: 1 hours 0 minutes (1 sessions)
+    Session 1: 09:00 - 10:00 (60 minutes)
+
+  Chat Activity:
+    Alice: 4 messages
+    Charlie: 4 messages
+    Bob: 3 messages
+
+Meeting: English Class (2025-07-11)
+--------------------------------------------------
+  Bob: 1 hours 0 minutes (1 sessions)
+    Session 1: 09:00 - 10:00 (60 minutes)
+  Charlie: 1 hours 0 minutes (1 sessions)
+    Session 1: 09:30 - 10:30 (60 minutes)
+  Eve: 1 hours 0 minutes (1 sessions)
+    Session 1: 10:00 - 11:00 (60 minutes)
+
+  Chat Activity:
+    Bob: 6 messages
+    Charlie: 4 messages
+    Eve: 2 messages
+
+OFFLINE MEETINGS ANALYSIS
+=========================
+
+Meeting: Science Lab (2025-07-10) at Lab 101
+------------------------------------------------------------
+Attendance Rate: 80.0%
+Present: 3, Late: 1, Absent: 1
+
+  Alice: present (90 minutes)
+  Bob: present (75 minutes) - Late by 15 minutes
+  Charlie: absent
+  Diana: present (60 minutes) - Left 30 minutes early
+  Eve: late (60 minutes) - Late by 30 minutes
+
+  Activity Summary:
+    Analysis: 5 times
+    Data collection: 4 times
+    Report writing: 3 times
+    Experiment setup: 3 times
+    Report submission: 2 times
+    Cleanup: 1 times
+
+  Most Active Participants:
+    Alice: 6 activities
+    Bob: 5 activities
+    Eve: 4 activities
+
+Meeting: Physical Education (2025-07-12) at Sports Ground
+------------------------------------------------------------
+Attendance Rate: 80.0%
+Present: 4, Late: 0, Absent: 1
+
+  Alice: present (90 minutes)
+  Bob: present (90 minutes)
+  Charlie: absent
+  Diana: present (75 minutes) - Late by 15 minutes
+  Eve: present (60 minutes) - Left 30 minutes early
+
+  Activity Summary:
+    Basketball practice: 8 times
+    Cool-down exercises: 5 times
+    Warm-up exercises: 4 times
+
+  Most Active Participants:
+    Bob: 5 activities
+    Alice: 5 activities
+    Diana: 4 activities
+
+PARTICIPANT PERFORMANCE ANALYSIS
+===============================
+
+TOP PARTICIPANTS BY ENGAGEMENT:
+  Bob: 5 hours 15 minutes (4 meetings)
+  Alice: 4 hours 15 minutes (3 meetings)
+  Eve: 3 hours 0 minutes (3 meetings)
+  Diana: 2 hours 15 minutes (2 meetings)
+  Charlie: 2 hours 0 minutes (4 meetings)
+
+ATTENDANCE RELIABILITY:
+  Diana: 100.0% (2/2 meetings)
+  Bob: 100.0% (2/2 meetings)
+  Eve: 100.0% (2/2 meetings)
+  Alice: 100.0% (2/2 meetings)
+  Charlie: 0.0% (0/2 meetings)
+
+RECOMMENDATIONS
+===============
+1. MEETING DISTRIBUTION:
+   - Online meetings: 2 (50.0%)
+   - Offline meetings: 2 (50.0%)
+
+2. ATTENDANCE ISSUES:
+   - Charlie: 50.0% absence rate (2 absences in 4 meetings)
+   Recommendation: Implement attendance tracking and follow-up for frequent absentees
+
+3. ENGAGEMENT OPPORTUNITIES:
+   - Diana: Low engagement (2 hours 15 minutes total)
+   - Charlie: Low engagement (2 hours 0 minutes total)
+   Recommendation: Implement engagement strategies for low-participation members
+
+4. GENERAL RECOMMENDATIONS:
+   - Regular attendance tracking and reporting
+   - Mix of online and offline meetings for optimal engagement
+   - Activity-based learning for offline sessions
+   - Follow-up with participants showing declining engagement
+   - Regular feedback collection to improve meeting effectiveness
